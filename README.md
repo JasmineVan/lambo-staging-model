@@ -1,3 +1,3 @@
 # lambo-staging-model
-Created with CodeSandbox
-[Thumbnail](thumbnail.png)
+Created with CodeSandbox</br>
+![Thumbnail](thumbnail.png)
